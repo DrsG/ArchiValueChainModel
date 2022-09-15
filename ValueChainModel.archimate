@@ -5024,9 +5024,9 @@
           <bounds x="1080" y="156" width="299" height="85"/>
           <sourceConnection id="id-b90f22a9a52c4c8ea9999730bac55f21" source="id-d32068ff3a834ebfa9a39b90dacce213" target="id-7bb601532ead4dceb2c8fc0b2e473af6"/>
           <content>Naming Convention:&#xD;
-&lt;ApplicationComponentName>_AS&#xD;
+&lt;ApplicationComponentName>-AS&#xD;
 &#xD;
-Thus  all ending with &quot;_AS&quot; (from Application Service)&#xD;
+Thus  all ending with &quot;-AS&quot; (from Application Service)&#xD;
 There is an AS for each Appllication Component.&#xD;
 &#xD;
 </content>
@@ -5042,9 +5042,9 @@ There is an AS for each Appllication Component.&#xD;
           <bounds x="1081" y="408" width="371" height="85"/>
           <sourceConnection id="id-195a399d93e94b7f999a5b431290398e" source="id-575cde780acf469d8a7c5ec77ec65df6" target="id-6443e606c95148b486490cb975184876"/>
           <content>Naming Convention:&#xD;
-&lt;ApplictionComponentName>_IS&#xD;
+&lt;ApplictionComponentName>-IS&#xD;
 &#xD;
-Thus all ending with &quot;_IS&quot; (from Infrastructure Service).&#xD;
+Thus all ending with &quot;-IS&quot; (from Infrastructure Service).&#xD;
 There is an IS for each Appllication Component (grouping all Technology used by the ApplicationComponnet)&#xD;
 </content>
         </child>
